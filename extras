@@ -1,0 +1,7 @@
+Backend
+
+npm i socket.io
+
+Frontend
+npm i socket.io
+npm install react-scroll-to-bottom
